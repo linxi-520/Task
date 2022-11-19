@@ -4,7 +4,7 @@
 <h1 align="center">Python-任务管理系统</h1>
 
 [GitHub](https://github.com/linxi-520/Task)
-[开始阅读](# 首页)
+[开始阅读](#首页)
 
 
 
